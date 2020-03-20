@@ -3,4 +3,4 @@
 # Slack Username: Netacci
 # Tracks: Frontend and Design
 # Courses: HTML, CSS, JavaScript and Design
-# [Link to git profile](https://github.com/Netacci/netacci)
+# [Link to git rep](https://github.com/Netacci/netacci)

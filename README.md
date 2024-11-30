@@ -5,7 +5,7 @@ I am a frontend developer who specializes in creating dynamic web applications u
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning Node js and React native as I intend to become a full-stack developer before the end of 2024.
+- 🌱 I’m currently learning Node js and React native.
 - 🔭 I’m currently working on a real estate backend project that will allow realtors to list properties, allow users to view them, and an admin dashboard that lists all the realtors and their properties. Realtors can register, login, edit, delete profile, add new property, edit and delete property. [Repo link](https://github.com/Netacci/skenny-backend)
 
 - 👯 I’m looking to collaborate on React web projects with either Javascript or Typescript. I also want to delve into the world of AI, so I wouldn't mind gigs that have to do with that.
